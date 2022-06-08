@@ -8,9 +8,8 @@ Ciência da Computação ⚪ <br>
 </div>
 <hr>
 <a href="https://www.linkedin.com/in/kayck-hirt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<div>
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width=45%>
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width=45% align=right height=254px>
+<div align="center">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width=33%>
 </div>
 
 
