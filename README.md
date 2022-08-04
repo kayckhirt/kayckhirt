@@ -1,7 +1,7 @@
 ## Hello World, eu sou o Kayck, Estudante de Desenvolvimento Web na Trybe.
 
 <div>
-Fundamentos do Desenvolvimento Web ⏳ <br>
+Fundamentos do Desenvolvimento Web ✅ <br>
 Desenvolvimento Front-end ⏳ <br>
 Desenvolvimento Back-end ⏳ <br>
 Ciência da Computação ⏳ <br>
