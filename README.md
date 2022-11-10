@@ -2,7 +2,7 @@
 
 <div>
 Fundamentos do Desenvolvimento Web ✔️ <br>
-Desenvolvimento Front-end ⏳ <br>
+Desenvolvimento Front-end ✔️ <br>
 Desenvolvimento Back-end ⏳ <br>
 Ciência da Computação ⏳ <br>
 </div>
