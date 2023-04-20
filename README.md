@@ -1,4 +1,4 @@
-## Hello World, eu sou o Kayck, Estudante de Desenvolvimento Web na Trybe.
+## Hello World, eu sou o Kayck, Desenvolvedor Full-Stack.
 
 <div>
 Fundamentos do Desenvolvimento Web ✔️ <br>
