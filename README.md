@@ -1,7 +1,7 @@
 ## Hello World, eu sou o Kayck, Desenvolvedor Full-Stack.
 
 <div>
-Olá! Sou um entusiasta da tecnologia e apaixonado por desenvolvimento web Full Stack. Atualmente, estou aprimorando meus conhecimentos estudando Análise e Desenvolvimento de Sistemas na Estácio, busco constantemente aprender e crescer como profissional.
+Olá! Sou um entusiasta da tecnologia e apaixonado por desenvolvimento web. Atualmente, estou aprimorando meus conhecimentos estudando Análise e Desenvolvimento de Sistemas na Estácio, busco constantemente aprender e crescer como profissional.
 </div>
 <hr>
 <div>
