@@ -1,8 +1,6 @@
-## Hello World, eu sou o Kayck, Desenvolvedor Full-Stack.
+## Hello World
 
-<div>
-Olá! Sou um entusiasta da tecnologia e apaixonado por desenvolvimento web. Atualmente, estou aprimorando meus conhecimentos estudando Análise e Desenvolvimento de Sistemas na Estácio, busco constantemente aprender e crescer como profissional.
-</div>
+
 <hr>
 <div>
 <a href="https://www.linkedin.com/in/kayck-hirt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=35px></a>
